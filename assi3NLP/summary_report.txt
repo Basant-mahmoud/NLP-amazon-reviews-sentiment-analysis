@@ -1,0 +1,16 @@
+Summary Report
+
+Model Summaries:
+SimpleRNN Model:
+None
+LSTM Model:
+None
+
+Accuracy Report:
+Ratio | Padding Length | Accuracy
+----------------------------------
+70.0%   | 50              | 0.8254852890968323
+70.0%   | 100              | 0.8149144649505615
+80.0%   | 50              | 0.8232410550117493
+80.0%   | 100              | 0.8192041516304016
+
